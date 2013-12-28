@@ -1,0 +1,12 @@
+<form>
+    <span bind-html-unsafe="html"></span>
+    <input type="hidden" name="attempt_number">
+</form>
+<button class="btn btn-primary quiz-submit-button" data-ng-click="quizSubmit()" type="button" data-ng-show="submit">Submit</button>
+<button class="btn btn-default quiz-skip-button" data-ng-click="quizSkip()" type="button" data-ng-show="skip">Skip</button>
+<button class="btn btn-success quiz-continue-button" data-ng-click="quizContinue()" type="button" data-ng-show="continue_btn">Continue</button>
+<button class="btn btn-info quiz-show-explanation" data-ng-click="quizShowExplanation()" type="button" data-ng-show="explanation">Explanation</button>
+<div class="alert alert-warning alert-dismissable quiz-status" data-ng-show="status">
+  <button type="button" class="close" data-ng-click="status=''" aria-hidden="true">&times;</button>
+  {{ status }}
+</div>

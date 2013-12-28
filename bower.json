@@ -1,0 +1,16 @@
+{
+  "name": "videogular-quiz",
+  "version": "1.0.0",
+  "authors": [
+    "NamPNQ <nampnq@gmail.com>"
+  ],
+  "description": "Videogular quiz plugin",
+  "main": "quiz.js",
+  "keywords": [
+    "videogular",
+    "videogular-plugin",
+    "videogular-quiz"
+  ],
+  "license": "MIT",
+  "homepage": "http://nampnq.vietnamcode.info",
+}
