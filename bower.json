@@ -11,6 +11,9 @@
     "videogular-plugin",
     "videogular-quiz"
   ],
+  "dependencies": {
+    "videogular": "latest"
+  },
   "license": "MIT",
-  "homepage": "http://nampnq.vietnamcode.info",
+  "homepage": "http://nampnq.vietnamcode.com"
 }
