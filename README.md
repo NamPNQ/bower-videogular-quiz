@@ -2,6 +2,7 @@ bower-videogular-quiz
 =====================
 
 Videogular `quiz` plugin repository for distribution on `bower` 
+![Quiz Plugin](http://help.coursera.org/customer/portal/attachments/153501)
 
 ## Install
 
