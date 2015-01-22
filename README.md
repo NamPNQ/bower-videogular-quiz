@@ -1,5 +1,5 @@
-bower-videogular-quiz
-=====================
+bower-videogular-quiz (DISCONTINUE)
+===================================
 
 Videogular `quiz` plugin repository for distribution on `bower` 
 ![Quiz Plugin](http://help.coursera.org/customer/portal/attachments/153501)
